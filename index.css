@@ -1,0 +1,31 @@
+h1 {
+  font-size: 100px !important;
+  font-family: fantasy;
+}
+#title{
+  border-style: solid;
+  background-color: white;
+  transform: scale(.7);
+  padding: 0px;
+  border-radius: 0%;
+  text-align: center;
+  text-decoration:
+}
+#image {
+  max-width: 50%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+#img-caption{
+  text-align: center;
+  font-family: georgia;
+  position: relative;
+  margin: auto;
+}
+#tribute-info{
+  background-color: rgb(20,20,20);
+  color: rgb(200,200,200);
+  text-align: center;
+  padding: 20px;
+}
